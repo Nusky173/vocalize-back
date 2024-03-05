@@ -1,0 +1,6 @@
+FROM postgres
+
+ENV POSTGRES_DB=vocalize
+ENV POSTGRES_PASSWORD=root
+ENV POSTGRES_PASSWORD=root
+ENV POSTGRES_USER=simon.lecordier
